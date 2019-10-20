@@ -16,20 +16,20 @@ Contents:
 
 Dependencies:
 
-1) matplotlib
+1) Matplotlib
 
 2) h5py
 
-3) tensorflow
+3) Tensorflow
 
-4) numpy 
+4) Numpy 
 
 5) PIL
 
-6) scipy
+6) Scipy
 
 Model Description :
 
-3 hidden layers of dimensions 20 , 7 , 5 respectively .
-learning rate = 0.0075
-no. of iterations = 2501
+3 Hidden layers of dimensions 20 , 7 , 5 Respectively .
+Learning rate = 0.0075
+No. of iterations = 2501
