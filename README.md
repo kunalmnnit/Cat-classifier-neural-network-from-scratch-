@@ -33,3 +33,4 @@ Model Description :
 3 hidden layers of dimensions 20 , 7 , 5 respectively .
 learning rate = 0.0075
 no. of iterations = 2501
+When we see an object, the light receptors in your eyes send signals via the optic nerve to the primary visual cortex, where the input is being processed. The primary visual cortex makes sense of what the eye sees.
